@@ -26,6 +26,9 @@ Notifications: npm package react-hot-toast
 
 📸 Screenshot
 
+     <img width="1208" height="557" alt="Screenshot 2025-08-05 144529" src="https://github.com/user-attachments/assets/59c72692-8f57-4995-b027-6bea1d88a55e" />
+
+
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
@@ -54,20 +57,20 @@ npm run dev
 ⚙️ Firebase Config Example
 
        // firebase.ts
-import { initializeApp } from "firebase/app";
-import { getFirestore } from "firebase/firestore";
+        import { initializeApp } from "firebase/app";
+        import { getFirestore } from "firebase/firestore";
 
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID",
-};
+        const firebaseConfig = {
+           apiKey: "YOUR_API_KEY",
+           authDomain: "YOUR_AUTH_DOMAIN",
+           projectId: "YOUR_PROJECT_ID",
+           storageBucket: "YOUR_STORAGE_BUCKET",
+           messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+           appId: "YOUR_APP_ID",
+        };
 
-const app = initializeApp(firebaseConfig);
-export const db = getFirestore(app);
+        const app = initializeApp(firebaseConfig);
+        export const db = getFirestore(app);
 
 
 
