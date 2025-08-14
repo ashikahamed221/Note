@@ -23,7 +23,7 @@ Styling: TailwindCSS
 Database: Firebase Firestore
 
 Notifications: npm package react-hot-toast
-
+## Output
 <img width="1208" height="557" alt="Screenshot 2025-08-05 144529" src="https://github.com/user-attachments/assets/ba1a2417-ef29-4d74-ad95-38f7be85c91f" />
 
 ## 📦 Installation & Setup
