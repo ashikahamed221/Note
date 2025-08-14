@@ -24,10 +24,7 @@ Database: Firebase Firestore
 
 Notifications: npm package react-hot-toast
 
-📸 Screenshot
-
-     <img width="1208" height="557" alt="Screenshot 2025-08-05 144529" src="https://github.com/user-attachments/assets/59c72692-8f57-4995-b027-6bea1d88a55e.png" />
-
+<img width="1208" height="557" alt="Screenshot 2025-08-05 144529" src="https://github.com/user-attachments/assets/ba1a2417-ef29-4d74-ad95-38f7be85c91f" />
 
 ## 📦 Installation & Setup
 
